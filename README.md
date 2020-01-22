@@ -8,3 +8,6 @@ https://docs.google.com/document/d/1t_yXkzHEQqgAb6i4vBe_qwknvZ43qABYux7s_Tp0hHw/
 
 ### Bfs
 https://docs.google.com/document/d/10AloY8l69LyH2wGzyd718eRD7kN6lA4psQaCbmneBNQ/edit?usp=sharing
+
+### Linked List
+https://docs.google.com/document/d/1DS5DDNTrD0pxmOzvxemrigc6woXYjkDlCLNJTUt-HwA/

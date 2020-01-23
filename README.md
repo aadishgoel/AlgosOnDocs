@@ -14,3 +14,6 @@ https://docs.google.com/document/d/1DS5DDNTrD0pxmOzvxemrigc6woXYjkDlCLNJTUt-HwA/
 
 ### Max Path Sum In Binary Tree
 https://docs.google.com/document/d/1oRyyhIxUT07PDeXen1LT9olCNLyV0QeCKc6K_8l-qAM/
+
+### KMP Search
+https://docs.google.com/document/d/1NBHRoXCyI_ECuoQtddhjcU9UcpUyb9NR_1OHX03RWqI/

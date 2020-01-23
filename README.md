@@ -23,3 +23,6 @@ https://docs.google.com/document/d/1J_kpLy0s-5NBnSYYb5gyoAiFQUsyac9EjN0bXr037KE/
 
 ### 01 Knapsack with list of elements used
 https://docs.google.com/document/d/1Dw_MYIGwDavIhwzczRyb_bypOWSoStxzLb4QTiXfpio/
+
+### ReverseALinkedList
+https://docs.google.com/document/d/1LzOOeBdXIIR66Vs_3MRq4zIGuD8bHPRwJZ2i2NJ6voI/

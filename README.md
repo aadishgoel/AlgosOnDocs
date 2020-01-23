@@ -20,3 +20,6 @@ https://docs.google.com/document/d/1NBHRoXCyI_ECuoQtddhjcU9UcpUyb9NR_1OHX03RWqI/
 
 ### Trie
 https://docs.google.com/document/d/1J_kpLy0s-5NBnSYYb5gyoAiFQUsyac9EjN0bXr037KE/
+
+### 01 Knapsack with list of elements used
+https://docs.google.com/document/d/1Dw_MYIGwDavIhwzczRyb_bypOWSoStxzLb4QTiXfpio/

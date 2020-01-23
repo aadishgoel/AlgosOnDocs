@@ -17,3 +17,6 @@ https://docs.google.com/document/d/1oRyyhIxUT07PDeXen1LT9olCNLyV0QeCKc6K_8l-qAM/
 
 ### KMP Search
 https://docs.google.com/document/d/1NBHRoXCyI_ECuoQtddhjcU9UcpUyb9NR_1OHX03RWqI/
+
+### Trie
+https://docs.google.com/document/d/1J_kpLy0s-5NBnSYYb5gyoAiFQUsyac9EjN0bXr037KE/
